@@ -6,6 +6,16 @@ A personal portfolio website built with React, Vite, and Tailwind CSS, designed 
 
 Check out the live project here: [Govind Portfolio](https://synthetic-verve-429616-d2.firebaseapp.com)
 
+🛠️ Technologies Used
+
+React – JavaScript library for building UI components
+
+Vite – Fast build tool and development server
+
+Tailwind CSS – Utility-first CSS framework for styling
+
+Email.js – API for handling contact form messages
+
 📌 Features
 
 🎨 Modern UI – Designed with Tailwind CSS for a clean and elegant look.
@@ -21,14 +31,6 @@ Check out the live project here: [Govind Portfolio](https://synthetic-verve-4296
 🌙 Dark Mode Support – Toggle between light and dark themes.
 
 🔗 Social Media Links – Integrated social media buttons for easy access.
-
-🛠️ Technologies Used
-
-React – JavaScript library for building UI components
-
-Vite – Fast build tool and development server
-
-Tailwind CSS – Utility-first CSS framework for styling
 
 🚀 Getting Started
 
