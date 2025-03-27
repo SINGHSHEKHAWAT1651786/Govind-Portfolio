@@ -4,7 +4,7 @@ A personal portfolio website built with React, Vite, and Tailwind CSS, designed 
 
 🌍 Live Demo
 
-Check out the live project here: Govind Portfolio
+Check out the live project here: [Govind Portfolio](https://synthetic-verve-429616-d2.firebaseapp.com)
 
 📌 Features
 
