@@ -1,6 +1,6 @@
 ## Govind Portfolio = React+ Vite + Tailwind CSS
 
-A personal portfolio website built with React, Vite, and Tailwind CSS, designed to showcase projects, skills, and experience. This project includes multiple sections - About Me, Projects, Skills, and Contact page, responsive UI.
+A personal portfolio website built with React, Vite, and Tailwind CSS, designed to showcase projects, skills, and experience. This project includes multiple sections - About Me, Projects, Skills, and Contact page, responsive UI design.
 
 🌍 Live Demo
 
